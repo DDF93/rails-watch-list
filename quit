@@ -1,0 +1,124 @@
+=> 
+[[32m#<Movie:0x00007fa2b098d708[0m
+  id: [34m[1m1[0m,
+  title:
+   [31m[1m"[0m[31mThe Shawshank Redemption[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mFramed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.7[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.717028000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.717028000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b36121e8[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mThe Godfather[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mSpanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.7[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.729299000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.729299000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b3611c98[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mThe Godfather Part II[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mIn the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.6[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.733920000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.733920000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b3611ba8[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mSchindler's List[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mThe true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.6[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.738746000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.738746000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b3611ab8[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31m12 Angry Men[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mThe defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.5[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.744820000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.744820000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b36119c8[0m
+  id: [34m[1m6[0m,
+  title: [31m[1m"[0m[31mSpirited Away[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mA young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.5[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.750168000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.750168000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b36118d8[0m
+  id: [34m[1m7[0m,
+  title:
+   [31m[1m"[0m[31mDilwale Dulhania Le Jayenge[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mRaj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.5[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.755143000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.755143000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b3610870[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mThe Dark Knight[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mBatman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.5[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.760842000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.760842000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b3610690[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31mParasite[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mAll unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.5[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.765265000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.765265000 UTC +00:00[32m>[0m,
+ [32m#<Movie:0x00007fa2b2d23f00[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mThe Green Mile[0m[31m[1m"[0m,
+  overview:
+   [31m[1m"[0m[31mA supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.[0m[31m[1m"[0m,
+  poster_url:
+   [31m[1m"[0m[31mhttps://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg[0m[31m[1m"[0m,
+  rating: [35m[1m8.5[0m,
+  created_at:
+   Sat, 10 Feb 2024 11:40:17.769853000 UTC +00:00,
+  updated_at:
+   Sat, 10 Feb 2024 11:40:17.769853000 UTC +00:00[32m>[0m,
+ [31m[1m"[0m[31m...[0m[31m[1m"[0m]
