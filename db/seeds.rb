@@ -9,19 +9,19 @@
 #   end
 require "json"
 require "open-uri"
-picture_url = "https://image.tmdb.org/t/p/original"
+
 url = "https://tmdb.lewagon.com/movie/top_rated"
-user_serialized = URI.open(url).read
-user = JSON.parse(user_serialized)
-films = user["results"]
+picture_url = "https://image.tmdb.org/t/p/original"
+
+films = JSON.parse(URI.open(url).read)["results"]
+
 films.each do |film|
- film_data = {
-  title: film["title"],
-  poster_url: "#{picture_url}#{film["poster_path"]}",
-  rating: film["vote_average"].round(1),
-  overview: film["overview"]
- }
- Movie.create(film_data)
- puts "#{film["title"]} added"
+  Movie.create(
+    title: film["title"],
+    poster_url: "#{picture_url}#{film["poster_path"]}",
+    rating: film["vote_average"].round(1),
+    overview: film["overview"]
+  )
+  puts "#{film["title"]} added"
 end
-"complete"
+
