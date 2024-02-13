@@ -14,10 +14,10 @@ class ListsController < ApplicationController
     respond_to do |format|
       if @list.save
         format.html { redirect_to lists_path, notice: "List was successfully created." }
-        format.js   # This will render create.js.erb
+        format.js   { render js: "alert('List created');" }
       else
         format.html { render :index }
-        format.js   # This will render create.js.erb
+        format.js   # This will render create.js.erb by default
       end
     end
   end
